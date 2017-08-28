@@ -1,0 +1,313 @@
+<resources>
+
+    <string name="app_name">Benicassim</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Strings for the navigation drawer menu-->
+    <string name="nav_header_image">Image for navigation pane header</string>
+    <string name="menu_title_home">Home</string>
+    <string name="menu_section_sleep_eat_drink">Sleep | Eat | Drink</string>
+    <string name="menu_title_hotels">Hotels</string>
+    <string name="menu_title_grocery_stores">Grocery Stores</string>
+    <string name="menu_title_restaurants">Restaurants</string>
+    <string name="menu_title_cafes">Cafes</string>
+    <string name="menu_section_relax_chill_move">Relax | Chill | Move</string>
+    <string name="menu_title_beaches">Beaches</string>
+    <string name="menu_title_sports">Sports</string>
+    <string name="menu_title_leisure_parks">Leisure Parks</string>
+    <string name="menu_title_events">Events</string>
+
+    <!-- Strings for the home screen-->
+    <string name="home_benicassim_me_gusta">Benicassim Me Gusta</string>
+    <string name="home_benicassim_playa">Benicassim Playa</string>
+    <string name="home_benicassim_columbrete_islands">Columbrete Islands</string>
+    <string name="home_benicassim_paella">Paëlla</string>
+
+    <string name="home_benicassim_description_p1">
+         Arabic: بنو قاسم‎‎ (according to numismatic findings)
+        \n\n
+        Benicassim is situated in the province of Castellón. It has an estimated population of around 19,000 inhabitants, but during the summer it reaches approximately 60,000.
+        \n\n
+        Benicassim offers six kilometers of sandy beaches with numerous services, installations and infrastructure to fully enjoy the stay: cleaning, public access, showers, feet showers, free drinkable water, beach-volley courts, floating diving boards with toboggans, wooden umbrellas…
+        \n\n
+        These beaches have been awarded the Blue Flag for Clean Seas of Europe since 1987. The coast zone is divided into five beaches, where there is also a promenade, along with special corridors for bikes, rollers, and runners.</string>
+    <string name="home_benicassim_description_p2">
+        The province of Castellón, and in particular Benicassim, offers many activities to take advantage of during your free time.
+        In the inland region, there is also the natural park of "Desiert de las Palmas", where you can enjoy the calm and serenity of nature and find a lot of local species.
+        \n\n
+        The highest level is the Mount of Bartolo with an altitude of 729 meters. From there you can see the Columbrete Islands, which are 50 kilometers off the coast.</string>
+    <string name="home_benicassim_description_p3">
+        In Benicassim you can practice a lot of different sports like golf, tennis, squash/fronton, diving, wind surfing and sailing. Nearby, in the port area of Castellón, named El Grao de Castellón, there is a planetarium, a marina and an air club.
+        \n\n
+        Benicassim has an excellent climate that allows you to enjoy any outdoor activity you want to do or just take a walk and enjoy your stay.</string>
+
+    <!-- String for list item pictures-->
+    <string name="location_picture">Picture for location</string>
+
+    <!-- Strings for the hotels list-->
+    <string name="hotel_name_1">Hotel Trinimar</string>
+    <string name="hotel_description_1">Simple rooms in a casual hotel offering free breakfast, Wi-Fi, a poolside bar and bike rentals.</string>
+    <string name="hotel_web_1">hoteltrinimar.com</string>
+    <string name="hotel_address_1">Av. Ferrandis Salvador, 184, 12560 Benicasim, Castellón, Spain</string>
+    <string name="hotel_phone_1">+34 964 30 08 50</string>
+    <string name="hotel_opening_hours_1"></string>
+
+    <string name="hotel_name_2">Hotel Intur Azor</string>
+    <string name="hotel_description_2">Unfussy option with simple rooms, a pool, a spa, as well as free breakfast and parking.</string>
+    <string name="hotel_web_2">intur.com</string>
+    <string name="hotel_address_2">Av. Gimeno Tomas, 1, 12560 Benicàssim, Castelló, Spain</string>
+    <string name="hotel_phone_2">+34 964 39 20 00</string>
+    <string name="hotel_opening_hours_2"></string>
+
+    <string name="hotel_name_3">Hotel Voramar</string>
+    <string name="hotel_description_3">Casual beachfront hotel offering a sea-view restaurant and a cafe/bar with a terrace.</string>
+    <string name="hotel_web_3">voramar.net</string>
+    <string name="hotel_address_3">Paseo Marítimo Pilar Coloma, 1, 12560 Benicasim, Castellón, Spain</string>
+    <string name="hotel_phone_3">+34 964 30 01 50</string>
+    <string name="hotel_opening_hours_3"></string>
+
+    <string name="hotel_name_4">Hotel Bersoca</string>
+    <string name="hotel_description_4">Modest rooms in a casual lodging with a restaurant, lounge bar, outdoor pool, and free breakfast.</string>
+    <string name="hotel_web_4">hotelbersoca.com</string>
+    <string name="hotel_address_4">Gran Av. Jaume I, 217, 12560 Benicàssim, Castelló, Spain</string>
+    <string name="hotel_phone_4">+34 964 30 12 58</string>
+    <string name="hotel_opening_hours_4"></string>
+
+    <string name="hotel_name_5">Hotel Costa Azahar</string>
+    <string name="hotel_description_5">Airy, unpretentious hotel featuring relaxed rooms, some with balconies and sea views, others with a terrace.</string>
+    <string name="hotel_web_5">costazaharhoteles.com</string>
+    <string name="hotel_address_5">Av. Castalia, 46, 12100 El Grao de Castellón, Castellón, Spain</string>
+    <string name="hotel_phone_5">+34 964 28 82 93</string>
+    <string name="hotel_opening_hours_5"></string>
+
+    <!-- Strings for the restaurants list-->
+    <string name="restaurant_name_1">Tasca El Pollo</string>
+    <string name="restaurant_description_1">Chicken Specialities</string>
+    <string name="restaurant_web_1">tascaelpollo.es</string>
+    <string name="restaurant_address_1">Av. Ferrandis Salvador, 186, 12560 Benicasim, Castellón, Spain</string>
+    <string name="restaurant_phone_1">+34 964 30 10 93</string>
+    <string name="restaurant_opening_hours_1">MON&#8211;SUN: 10h&#8211;23h30</string>
+
+    <string name="restaurant_name_2">Pizzería Italia Di Filippo</string>
+    <string name="restaurant_description_2">A renowned restaurant where you can enjoy the most delicious pizzas, in the middle of a quiet and familiar atmosphere.</string>
+    <string name="restaurant_web_2">pizzeriaitaliacastellon.com</string>
+    <string name="restaurant_address_2">Av. Ferrandis Salvador, 124-126, 12560 Benicasim, Castellón, Spain</string>
+    <string name="restaurant_phone_2">+34 964 392 727</string>
+    <string name="restaurant_opening_hours_2"></string>
+
+    <string name="restaurant_name_3">Belumar</string>
+    <string name="restaurant_description_3">Bar &amp; Grill</string>
+    <string name="restaurant_web_3">complejobelumar.com</string>
+    <string name="restaurant_address_3">Av. Ferrandis Salvador, 141, 12560 Benicasim, Castellón, Spain</string>
+    <string name="restaurant_phone_3">+34 964 39 48 17</string>
+    <string name="restaurant_opening_hours_3">MON&#8211;SUN: 10h&#8211;1h</string>
+
+    <string name="restaurant_name_4">La Caracola Morada</string>
+    <string name="restaurant_description_4">Gourmet Dishes</string>
+    <string name="restaurant_web_4">lacaracolamorada.com</string>
+    <string name="restaurant_address_4">Av. Ferrandis Salvador, 124, 12560 Benicasim, Castellón, Spain</string>
+    <string name="restaurant_phone_4">+34 964 63 58 30</string>
+    <string name="restaurant_opening_hours_4">MON&#8211;SUN: 8h30&#8211;1h30\nSUN: closes at midnight</string>
+
+    <string name="restaurant_name_5">Les Barraques</string>
+    <string name="restaurant_description_5">Best paëllas in town</string>
+    <string name="restaurant_web_5">restaurantelesbarraques.com</string>
+    <string name="restaurant_address_5">Gran Av. Jaume I, 217 A, 12560 Benicàssim, Castelló, Spain</string>
+    <string name="restaurant_phone_5">+34 964 30 02 48</string>
+    <string name="restaurant_opening_hours_5">MON&#8211;SUN: 9h&#8211;23h30\nWED: Closed</string>
+
+    <string name="restaurant_name_6">El Lipizano</string>
+    <string name="restaurant_description_6">Tapas / Paëllas on Saturday and Sundays / Rice and Fideuás Specialities</string>
+    <string name="restaurant_web_6">lipizano.es</string>
+    <string name="restaurant_address_6">Carrer Sant Tomàs, 15, 12560 Benicàssim, Castelló, Spain</string>
+    <string name="restaurant_phone_6">+34 964 30 46 43</string>
+    <string name="restaurant_opening_hours_6">MON&#8211;SUN: 13h&#8211;17h\nMON&#8211;SAT: 19h30&#8211;1h</string>
+    
+    <!-- Strings for the cafes list-->
+    <string name="cafe_name_1">Cafe Rebecca</string>
+    <string name="cafe_description_1">Chill cafe in students area</string>
+    <string name="cafe_web_1">facebook.com/caferebeca</string>
+    <string name="cafe_address_1">Carrer Albéniz, 14, 12560 Benicàssim, Castelló, Spain</string>
+    <string name="cafe_phone_1">+34 964 30 29 87</string>
+    <string name="cafe_opening_hours_1">MON&#8211;FRI: 6h30&#8211;12h\nSAT: 8h30&#8211;12h\nSUN: 15h&#8211;0h</string>
+
+    <string name="cafe_name_2">El Corb</string>
+    <string name="cafe_description_2">Espresso Bar</string>
+    <string name="cafe_web_2"></string>
+    <string name="cafe_address_2">Plaça de l\'Estació, 11, 12560 Benicàssim, Castelló, Spain</string>
+    <string name="cafe_phone_2">+34 964 30 15 99</string>
+    <string name="cafe_opening_hours_2">MON&#8211;TUE: Closed\nWED: 17h30&#8211;1h\nTHU: 11h&#8211;1h\nFRI-SAT: 17h&#8211;2h30\nSUN: 12h&#8211;1h30</string>
+
+    <string name="cafe_name_3">Nou Cafe</string>
+    <string name="cafe_description_3">4.7 Stars / 103 Reviews on Google</string>
+    <string name="cafe_web_3"></string>
+    <string name="cafe_address_3">Carrer Strassen Bad Salzdetfurth, 11, 12560 Benicàssim, Castelló, Spain</string>
+    <string name="cafe_phone_3">+34 964 86 83 82</string>
+    <string name="cafe_opening_hours_3">24/7"</string>
+
+    <!-- Strings for the grocery stores list-->
+    <string name="grocery_store_name_1">Supermercado Montemar</string>
+    <string name="grocery_store_description_1">Supermarket</string>
+    <string name="grocery_store_web_1"></string>
+    <string name="grocery_store_address_1">Carrer el Palmeral, 8, 12560 Benicàssim, Castelló, Spain</string>
+    <string name="grocery_store_phone_1">+34 964 39 29 60</string>
+    <string name="grocery_store_opening_hours_1"></string>
+
+    <string name="grocery_store_name_2">Consum</string>
+    <string name="grocery_store_description_2">Supermarket</string>
+    <string name="grocery_store_web_2">consum.es</string>
+    <string name="grocery_store_address_2">Gran Av. Jaume I, 87, 12560 Benicàssim, Castelló, Spain</string>
+    <string name="grocery_store_phone_2">+34 964 30 22 03</string>
+    <string name="grocery_store_opening_hours_2">MON&#8211;SAT: 9h&#8211;21h30\nSUN: Closed</string>
+
+    <string name="grocery_store_name_3">Mercadona</string>
+    <string name="grocery_store_description_3">Supermarket</string>
+    <string name="grocery_store_web_3">mercadona.es</string>
+    <string name="grocery_store_address_3">Gran Av. Jaume I, 10, 12560 Benicàssim, Castelló, Spain</string>
+    <string name="grocery_store_phone_3">+34 964 30 40 63</string>
+    <string name="grocery_store_opening_hours_3">MON&#8211;SAT: 9h&#8211;21h30\nSUN: Closed</string>
+
+    <string name="grocery_store_name_4">Lidl</string>
+    <string name="grocery_store_description_4">Supermarket</string>
+    <string name="grocery_store_web_4">lidl.es</string>
+    <string name="grocery_store_address_4">Avda. de Barcelona, 21, 12560 Benicasim, Castellón, Spain</string>
+    <string name="grocery_store_phone_4">+34 902 24 32 22</string>
+    <string name="grocery_store_opening_hours_4">MON&#8211;SAT: 9h&#8211;21h30\nSUN: 9h&#8211;15h</string>
+
+    <string name="grocery_store_name_5">Lonatural by Calasana</string>
+    <string name="grocery_store_description_5">Natural Foods Store</string>
+    <string name="grocery_store_web_5">lonatural.tienda</string>
+    <string name="grocery_store_address_5">Avinguda de Castelló, 56, 12560 Benicàssim, Castelló, Spain</string>
+    <string name="grocery_store_phone_5">+34 964 86 64 31</string>
+    <string name="grocery_store_opening_hours_5">MON&#8211;SAT: 10h&#8211;14h | 17h&#8211;20h30\nSUN: Closed</string>
+    
+    <!-- Strings for the beaches list-->
+    <string name="beach_name_1">Voramar</string>
+    <string name="beach_description_1">The contribution of natural sand and a peak, have provided the Voramar beach an enviable surface of fine golden sand.
+        The surroundings is defined by a promenade carefully taken care of that is located behind the traditional villas that are one of the characteristic images of Benicassim.
+        Walking along the promenade is one of the most typical activities, although it is also provided with several facilities, such as pedal-boats, water skates, canoes and windsurfing boards hiring.</string>
+
+    <string name="beach_name_2">Heliopolis</string>
+    <string name="beach_description_2">There you will find an extensive promenade in which the visitor while enjoying the company of sea can use the amenities of the Library of the Sea, during the summer.
+        It also has a cycleway that connects Benicassim with Castellón and allows leisure and sports always beside the sea.
+        During the summer season activities such as gymnastics is carried out on the beach, as well as tourist entertainment and leisure activities, for example, movies on the beach. You can rent boats and surfboards.</string>
+
+    <string name="beach_name_3">Torreon</string>
+    <string name="beach_description_3">"Torreon" is named after the magnificent tower overlooking this beach, one of the crowded beaches during the summer and throughout the year.
+        It brings together many events day and night throughout the summer, as the Festival of Habanera or the ”Night of San Juan” (Midsummer), as well as movies on the beach.
+        Also tourist activities are carried out on the beach such as gymnastics and numerous competitions.
+        There are volleyball courts and games for children. You can also hire sunshades, sunbeds and pedal boats, during the summer.</string>
+
+    <string name="beach_name_4">Almadraba</string>
+    <string name="beach_description_4">An excellent beach regenerated with natural sand. A promenade goes along its extension of fine sand and only two peaks separate it from adjacent beaches and shelter it from swell.
+        This beach is adapted to people with reduced mobility. It is the southern extension of the Voramar beach, so that its characteristics are similar.
+        Like the Voramar beach Almadraba Beach provides a sense of calm. It is a sandy beach with a gentle slope.
+        One of its most important features is that it is an accessible beach. It has gateways to shore.</string>
+
+    <string name="beach_name_5">Els Terrers</string>
+    <string name="beach_description_5">The protection of spikes gives the beach an oval shape, which shelters it from draughts and forms two inlets very suitable for bathing or getting initiated in water sports.
+        The existence of a sailing school and a youth hostel which gives it a young atmosphere.</string>
+
+    <!-- Strings for the sport activities list-->
+    <string name="sport_name_1">Club de Golf Costa de Azahar</string>
+    <string name="sport_description_1">The Costa de Azahar Golf Club has a nine-hole course surrounded by pine trees and located 50 meters from the beach of Grao de Castellón.
+        The Club also has tennis courts as well as teachers and summer courses. The situation of the Club, Grao-Benicasim road, allows the amateur to practice these sports within the tourist area Costa de Azahar.
+        The Costa de Azahar Golf Club is one of the oldest courses in the Mediterranean area. Located just 6 km from the center of Castellón and 12 km from Benicasim.</string>
+    <string name="sport_web_1">golfcostadeazahar.com</string>
+    <string name="sport_address_1">Avda. Ferrandis Salvador, s/n, 12100 El Grao de Castellón, Castellón, Spain</string>
+    <string name="sport_phone_1">+34 964 28 09 79</string>
+    <string name="sport_opening_hours_1">MON-SUN: 8h-21h</string>
+
+    <string name="sport_name_2">Club de Campo del Mediterraneo</string>
+    <string name="sport_description_2">Our Casa-Club, completely renovated in 1995, consists of Reception-Concierge, cafeteria area, two lounges-restaurants, lounge and games area, and large terraces.
+        On the first floor are offices, meeting rooms, children\'s room and billiards room. The newest part of the building consists of the club room, changing rooms with sauna and gym;
+        On the upper floor, the TV room and a multipurpose area with large terraces overlooking the golf course, suitable for various activities, from cafeteria to exhibition hall.</string>
+    <string name="sport_web_2">ccmediterraneo.com</string>
+    <string name="sport_address_2">Urbanización La Coma s/n, 12190 Borriol, Castellón, Spain</string>
+    <string name="sport_phone_2">+34 964 32 12 27</string>
+    <string name="sport_opening_hours_2">MON-SUN: 8h-21h</string>
+
+    <string name="sport_name_3">Club de Tenis Torremar</string>
+    <string name="sport_description_3">It was in the year 1970 , when a group of tennis fans, owners of the apartments Torremar, constituted the Tennis Club Torremar in lands adjacent to these apartments.
+        It is therefore one of the oldest in the province of Castellón . Since then the club, which started with 3 clay courts, has grown in size and social mass.
+        The Club is a very pleasant place for public relations and coexistence between partners, for the facilities it possesses and the wonderful climate that we enjoy in Benicasim.</string>
+    <string name="sport_web_3">clubtenistorremar.com</string>
+    <string name="sport_address_3">Carre Madre María Antonia de Oviedo, 3, 12560 Benicasim, Castellón, Spain</string>
+    <string name="sport_phone_3">+34 964 30 00 17</string>
+    <string name="sport_opening_hours_3"></string>
+
+    <string name="sport_name_4">Aeroclub de Castellón</string>
+    <string name="sport_description_4">Since 1959, the aerodrome of Pinar has been managed by a non-profit association, whose main purpose is the dissemination of aeronautical culture.
+        Since then, it has become an important attraction infrastructure for aeronautical tourism in our province, and contributes to the creation of many jobs.
+        Its private pilot school, ULM and RPA are managed by true passionate aviation staff, with extensive experience, and that will make your training as a pilot something unforgettable and extremely safe.
+        In addition, the Aeroclub de Castellón is home to important national and international sporting events, as well as the pool of high-level national team athletes.</string>
+    <string name="sport_web_4">aeroclubcastellon.com</string>
+    <string name="sport_address_4">Camino La Plana, s/n, 12100 El Grao de Castellón, Castellón, Spain</string>
+    <string name="sport_phone_4">+34 964 28 23 14</string>
+    <string name="sport_opening_hours_4">MON-SUN: 10h-13h | 15h-17h</string>
+
+    <string name="sport_name_5">Karting BeniKarts</string>
+    <string name="sport_description_5">Come and feel the speed at the best karts track of Benicasim</string>
+    <string name="sport_web_5">benikarts.com</string>
+    <string name="sport_address_5">N-340, Km. 987, 12560 Benicàssim, Castellón, Spain</string>
+    <string name="sport_phone_5">+34 964 30 36 03</string>
+    <string name="sport_opening_hours_5">MON: Closed\nTUE-FRI: 10h-20h\nSAT-SUN: 10h-21h</string>
+
+    <string name="sport_name_6">Kristal Bowling</string>
+    <string name="sport_description_6">Eight fantastic tracks to enjoy with friends and family.</string>
+    <string name="sport_web_6">kristalbolera.com</string>
+    <string name="sport_address_6">Carrer dels Frares, 12560 Benicàssim, Castelló, Spain</string>
+    <string name="sport_phone_6">+34 964 30 51 50</string>
+    <string name="sport_opening_hours_6">FRI-SAT: 16h-1h30\nSUN: 16h-0h</string>
+
+    <!-- Strings for the leisure parks list-->
+    <string name="leisure_park_name_1">Aquarama</string>
+    <string name="leisure_park_description_1">The most entertaining Waterpark in the Mediterranean is in Benicàssim, where we make the best waffles in the world!</string>
+    <string name="leisure_park_web_1">aquarama.net</string>
+    <string name="leisure_park_address_1">Carretera Nacional 340, Km. 986,8, 12560 Benicasim, Castellón, Spain</string>
+    <string name="leisure_park_phone_1">34 902 99 87 11</string>
+    <string name="leisure_park_opening_hours_1">MON-SUN: 11h-19h (from June 10th)</string>
+
+    <string name="leisure_park_name_2">Parque natural del Desierto de las Palmas</string>
+    <string name="leisure_park_description_2">This park of 3,293 hectares was declared natural place by the Valencian government on October 16, 1989.
+        Burned on several occasions 1985 and 1992 leaving as is evident little wild forest.
+        The name of the place is due to the presence of a mendicant Carmelite order, which in this way refers to spaces dedicated to spiritual retreat (the "Saints Deserts" 1).
+        The second part of the name is due to the abundance of the palm heart (Chamaerops humilis), the only endemic palm of Europe.
+        The mountain range is located in the region of La Plana Alta</string>
+    <string name="leisure_park_web_2"></string>
+    <string name="leisure_park_address_2">12560 Benicàssim, Castellón, Spain</string>
+    <string name="leisure_park_phone_2"></string>
+    <string name="leisure_park_opening_hours_2">24/7</string>
+
+    <string name="leisure_park_name_3">Molí de la Font</string>
+    <string name="leisure_park_description_3">Nature Preserve</string>
+    <string name="leisure_park_web_3">castello.es</string>
+    <string name="leisure_park_address_3">Camí de les Villes, 12004 Castelló de la Plana, Castelló, Spain</string>
+    <string name="leisure_park_phone_3">+34 964 35 53 98</string>
+    <string name="leisure_park_opening_hours_3"></string>
+    
+    <!-- Strings for the events list-->
+    <string name="event_name_1">FIB Festival international Benicassim</string>
+    <string name="event_description_1">The FIB is an annual music festival which takes place in the town of Benicàssim, Spain.
+        It focuses mainly on pop, rock and electronica artists, as well as having other elements including short films, fashion shows and art.
+        Benicassim has a reputation as being among the best on the international festival circuit.
+        The festival begins on the second Monday of July when the camping grounds open, although music only officially commences during Thursday afternoon.
+        FIB is notable for having bands playing through the night (5pm - 8am) and has three main stages, Las Palmas, Visa and South Beach Dance having a capacity of approximately 30,000, 15,000 and 8,000 people respectively.
+        In 2009, the festival capacity exceeded 50,000 and in 2016, over 150,000 visited the festival across the four days.</string>
+    <string name="event_web_1">fiberfib.com</string>
+    <string name="event_address_1">Carretera N-340, km 986,300, 12560 Benicàssim, Castellón, Spain</string>
+    <string name="event_phone_1"></string>
+    <string name="event_opening_hours_1"></string>
+
+    <string name="event_name_2">Rototom Sunsplash</string>
+    <string name="event_description_2">Rototom Sunsplash is a large European reggae festival, it takes place every summer at Benicassim, a few miles north of Valencia in Spain.
+        The festival imitates the traditional Jamaican Reggae Sunsplash and since 1994 calls from various European countries thousands of reggae passionated people,
+        thanks to concerts of international musicians, often many Jamaicans.</string>
+    <string name="event_web_2">rototomsunsplash.com</string>
+    <string name="event_address_2">Recinto de Festivales ubicado en la carretera N-340, km. 986,300.</string>
+    <string name="event_phone_2"></string>
+    <string name="event_opening_hours_2"></string>
+
+</resources>

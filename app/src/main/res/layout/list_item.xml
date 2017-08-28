@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="15dp">
+
+    <TextView
+        android:id="@+id/location_title_text_view"
+        style="@style/LocationTitleStyle" />
+
+    <ImageView
+        android:id="@+id/location_picture_image_view"
+        style="@style/ImageStyle"
+        android:contentDescription="@string/location_picture"/>
+
+    <TextView
+        android:id="@+id/location_description_text_view"
+        style="@style/LocationDescriptionStyle" />
+
+    <TextView
+        android:id="@+id/location_website_text_view"
+        style="@style/LocationAdditionalDetailsStyle"
+        android:drawableStart="@drawable/ic_public"
+        android:autoLink="web"/>
+
+    <TextView
+        android:id="@+id/location_address_text_view"
+        style="@style/LocationAdditionalDetailsStyle"
+        android:drawableStart="@drawable/ic_place"
+        android:autoLink="map"/>
+
+    <TextView
+        android:id="@+id/location_phone_number_text_view"
+        style="@style/LocationAdditionalDetailsStyle"
+        android:drawableStart="@drawable/ic_local_phone"
+        android:autoLink="phone"/>
+
+    <TextView
+        android:id="@+id/location_opening_hours_text_view"
+        style="@style/LocationAdditionalDetailsStyle"
+        android:drawableStart="@drawable/ic_schedule"/>
+
+</LinearLayout>

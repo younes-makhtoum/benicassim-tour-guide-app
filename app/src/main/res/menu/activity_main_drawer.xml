@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/menu_title_home" />
+
+        <item android:title="@string/menu_section_sleep_eat_drink">
+            <menu>
+                <group android:checkableBehavior="single">
+                    <item
+                        android:id="@+id/nav_hotels"
+                        android:icon="@drawable/ic_hotels"
+                        android:title="@string/menu_title_hotels" />
+                    <item
+                        android:id="@+id/nav_restaurants"
+                        android:icon="@drawable/ic_restaurants"
+                        android:title="@string/menu_title_restaurants" />
+                    <item
+                        android:id="@+id/nav_cafes"
+                        android:icon="@drawable/ic_cafes"
+                        android:title="@string/menu_title_cafes" />
+                    <item
+                        android:id="@+id/nav_grocery_stores"
+                        android:icon="@drawable/ic_grocery_stores"
+                        android:title="@string/menu_title_grocery_stores" />
+                </group>
+            </menu>
+        </item>
+        <item android:title="@string/menu_section_relax_chill_move">
+            <menu>
+                <group android:checkableBehavior="single">
+                    <item
+                        android:id="@+id/nav_beaches"
+                        android:icon="@drawable/ic_beaches"
+                        android:title="@string/menu_title_beaches" />
+                    <item
+                        android:id="@+id/nav_sports"
+                        android:icon="@drawable/ic_sports"
+                        android:title="@string/menu_title_sports" />
+                    <item
+                        android:id="@+id/nav_leisure_parks"
+                        android:icon="@drawable/ic_leisure_parks"
+                        android:title="@string/menu_title_leisure_parks" />
+                    <item
+                        android:id="@+id/nav_events"
+                        android:icon="@drawable/ic_events"
+                        android:title="@string/menu_title_events" />
+                </group>
+            </menu>
+        </item>
+
+    </group>
+
+</menu>

@@ -1,0 +1,76 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <!-- Style for home screen TextViews -->
+    <style name="HomeTextStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingTop">@dimen/fragment_padding</item>
+        <item name="android:paddingBottom">@dimen/fragment_padding</item>
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:textSize">@dimen/home_screen_text_size</item>
+    </style>
+
+    <!-- Style for home screen ImageViews -->
+    <style name="ImageStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:adjustViewBounds">true</item>
+        <item name="android:cropToPadding">false</item>
+        <item name="android:scaleType">fitXY</item>
+    </style>
+
+    <!-- Style for location's titles -->
+    <style name="LocationTitleStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/location_content_padding</item>
+        <item name="android:layout_marginTop">@dimen/location_title_marginTop</item>
+        <item name="android:drawablePadding">@dimen/location_drawable_padding</item>
+        <item name="android:drawableLeft">@drawable/ic_play_arrow</item>
+        <item name="android:gravity">center_vertical|left</item>
+        <item name="android:background">@color/location_title_background_color</item>
+        <item name="android:textColor">@color/location_title_text_color</item>
+        <item name="android:textSize">@dimen/location_title_text_size</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Style for location's descriptions  -->
+    <style name="LocationDescriptionStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/location_content_padding</item>
+        <item name="android:gravity">center_vertical|left</item>
+        <item name="android:background">@color/location_description_background_color</item>
+        <item name="android:textColor">@color/location_description_text_color</item>
+        <item name="android:textSize">@dimen/location_description_text_size</item>
+    </style>
+
+    <!-- Style for location's additional details -->
+    <style name="LocationAdditionalDetailsStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/location_content_padding</item>
+        <item name="android:drawablePadding">@dimen/location_drawable_padding</item>
+        <item name="android:gravity">center_vertical|left</item>
+        <item name="android:background">@color/location_details_background_color</item>
+        <item name="android:textColor">@color/location_details_text_color</item>
+        <item name="android:textSize">@dimen/location_details_text_size</item>
+    </style>
+
+</resources>
