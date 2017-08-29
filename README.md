@@ -18,7 +18,7 @@ This program was composed of 5 courses:
 
 --> Project specifications can be found [here](documentation/udacity-abn-tour-guide-app-specifications.pdf).
 
---> I chose the city of <b>Benicassim/b> located in Spain, on the Mediterranean coast.
+--> I chose the city of <b>Benicassim</b> located in Spain, on the Mediterranean coast.
 
 Here are some screenshots from the submitted version (1.0) for graduating :
 
