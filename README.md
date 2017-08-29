@@ -1,7 +1,8 @@
 # benicassim-tour-guide-app
 
 **_Android Basics Nanodegree_**
-_designed by Udacity & Google_
+
+    _designed by Udacity & Google_
 
 This program was composed of 5 courses:
 * User Interface
