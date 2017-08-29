@@ -15,7 +15,7 @@ This program was composed of 5 courses:
 
 --> This project was the third and final project of the "Multi-screen apps" course (Project #6 of program).
 
---> The goal was to create a tour guide app which presents relevant information about a chosen city. The app is expected to list top attractions, restaurants, public places, or events for the city.
+--> The goal was to create a tour guide app which presents relevant information about a chosen city. The app was expected to list top attractions, restaurants, public places, or events for the city.
 
 --> Project specifications can be found [here](documentation/udacity-abn-tour-guide-app-specifications.pdf).
 
