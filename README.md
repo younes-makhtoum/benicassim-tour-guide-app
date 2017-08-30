@@ -23,10 +23,9 @@ This program was composed of 5 courses:
 
 Here are some screenshots from the submitted version (1.0) for graduating :
 
-Solarized dark             |  Solarized Ocean
+            |  
 :-------------------------:|:-------------------------:
-![](documentation/screenshots/udacity-abn-tour-guide-app-v1.0-ss1.png?raw=true")  |  ![](<img src ="documentation/screenshots/udacity-abn-tour-guide-app-v1.0-ss2.png?raw=true"" width="45%"></img>
-)
+![](documentation/screenshots/udacity-abn-tour-guide-app-v1.0-ss1.png?raw=true")  |  ![]("documentation/screenshots/udacity-abn-tour-guide-app-v1.0-ss2.png?raw=true")
 
 <img src ="documentation/screenshots/udacity-abn-tour-guide-app-v1.0-ss1.png?raw=true" width="45%"></img>
 <img src ="documentation/screenshots/udacity-abn-tour-guide-app-v1.0-ss2.png?raw=true" width="45%"></img>
