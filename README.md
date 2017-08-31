@@ -3,9 +3,9 @@
 Project #6 for [Android Basics Nanodegree by Google](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
 certification
 
---> [Specifications](documentation/udacity-abn-tour-guide-app-specifications.pdf)
-
 --> The goal was to create a tour guide app which presents relevant information about a chosen city. The app was expected to list top attractions, restaurants, public places, or events for the city.
+
+--> [Specifications](documentation/udacity-abn-tour-guide-app-specifications.pdf)
 
 ---
 Screenshots from the submitted version (1.0) for graduating :
